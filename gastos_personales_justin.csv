@@ -1,0 +1,262 @@
+fecha,categoria,monto,metodo_pago
+2025-01-01,Otros,25000,Tarjeta crédito
+2025-01-01,Alimentación,25000,Efectivo
+2025-01-01,Entretenimiento,33000,Tarjeta débito
+2025-01-01,Salud,97000,Efectivo
+2025-01-02,Ropa,50000,Efectivo
+2025-01-02,Educación,108000,Tarjeta crédito
+2025-01-02,Transporte,12000,Tarjeta crédito
+2025-01-02,Alimentación,29000,Transferencia
+2025-01-03,Transporte,11000,Transferencia
+2025-01-03,Alimentación,35000,Tarjeta crédito
+2025-01-03,Entretenimiento,69000,Efectivo
+2025-01-04,Transporte,4000,Efectivo
+2025-01-04,Salud,80000,Tarjeta débito
+2025-01-05,Entretenimiento,45000,Efectivo
+2025-01-05,Alimentación,20000,Tarjeta crédito
+2025-01-05,Alimentación,43000,Tarjeta débito
+2025-01-05,Otros,38000,Tarjeta crédito
+2025-01-06,Servicios,77000,Tarjeta débito
+2025-01-06,Transporte,14000,Tarjeta débito
+2025-01-07,Otros,49000,Tarjeta crédito
+2025-01-08,Entretenimiento,69000,Tarjeta débito
+2025-01-08,Entretenimiento,24000,Efectivo
+2025-01-09,Alimentación,38000,Transferencia
+2025-01-09,Transporte,13000,Efectivo
+2025-01-09,Alimentación,49000,Tarjeta crédito
+2025-01-09,Servicios,70000,Efectivo
+2025-01-09,Ropa,41000,Tarjeta crédito
+2025-01-10,Alimentación,38000,Tarjeta débito
+2025-01-10,Salud,95000,Tarjeta débito
+2025-01-11,Educación,150000,Tarjeta débito
+2025-01-11,Servicios,171000,Tarjeta débito
+2025-01-11,Entretenimiento,24000,Tarjeta débito
+2025-01-12,Alimentación,46000,Efectivo
+2025-01-12,Educación,115000,Tarjeta débito
+2025-01-13,Ropa,172000,Efectivo
+2025-01-13,Servicios,189000,Efectivo
+2025-01-13,Educación,47000,Tarjeta crédito
+2025-01-13,Ropa,163000,Tarjeta crédito
+2025-01-14,Servicios,59000,Efectivo
+2025-01-14,Servicios,121000,Tarjeta débito
+2025-01-14,Transporte,3000,Transferencia
+2025-01-14,Alimentación,27000,Tarjeta débito
+2025-01-15,Transporte,13000,Efectivo
+2025-01-16,Entretenimiento,53000,Tarjeta crédito
+2025-01-17,Transporte,11000,Tarjeta débito
+2025-01-17,Entretenimiento,67000,Efectivo
+2025-01-17,Otros,6000,Efectivo
+2025-01-18,Transporte,3000,Efectivo
+2025-01-18,Transporte,14000,Transferencia
+2025-01-18,Alimentación,47000,Efectivo
+2025-01-19,Alimentación,58000,Efectivo
+2025-01-20,Otros,8000,Efectivo
+2025-01-20,Alimentación,31000,Tarjeta débito
+2025-01-21,Educación,116000,Tarjeta crédito
+2025-01-21,Alimentación,30000,Tarjeta débito
+2025-01-21,Alimentación,50000,Tarjeta débito
+2025-01-21,Alimentación,33000,Tarjeta débito
+2025-01-21,Transporte,11000,Efectivo
+2025-01-22,Transporte,10000,Tarjeta débito
+2025-01-23,Salud,59000,Tarjeta crédito
+2025-01-24,Transporte,12000,Tarjeta crédito
+2025-01-24,Otros,53000,Tarjeta débito
+2025-01-25,Otros,9000,Transferencia
+2025-01-25,Ropa,38000,Tarjeta crédito
+2025-01-26,Transporte,5000,Tarjeta crédito
+2025-01-27,Servicios,181000,Tarjeta crédito
+2025-01-27,Servicios,193000,Transferencia
+2025-01-27,Servicios,141000,Tarjeta crédito
+2025-01-27,Alimentación,43000,Tarjeta crédito
+2025-01-28,Alimentación,49000,Tarjeta débito
+2025-01-28,Salud,42000,Efectivo
+2025-01-29,Alimentación,34000,Tarjeta débito
+2025-01-29,Transporte,5000,Tarjeta crédito
+2025-01-29,Salud,85000,Tarjeta débito
+2025-01-29,Entretenimiento,31000,Tarjeta crédito
+2025-01-30,Entretenimiento,36000,Transferencia
+2025-01-30,Servicios,57000,Tarjeta débito
+2025-01-30,Salud,70000,Tarjeta crédito
+2025-01-30,Entretenimiento,73000,Tarjeta débito
+2025-01-30,Educación,65000,Efectivo
+2025-01-31,Servicios,66000,Tarjeta crédito
+2025-01-31,Ropa,124000,Tarjeta débito
+2025-01-31,Otros,25000,Tarjeta crédito
+2025-01-31,Alimentación,17000,Efectivo
+2025-01-31,Alimentación,45000,Tarjeta débito
+2025-02-01,Ropa,143000,Efectivo
+2025-02-01,Educación,146000,Transferencia
+2025-02-02,Transporte,10000,Tarjeta débito
+2025-02-02,Salud,57000,Tarjeta crédito
+2025-02-02,Educación,45000,Efectivo
+2025-02-03,Transporte,14000,Tarjeta crédito
+2025-02-03,Entretenimiento,54000,Tarjeta débito
+2025-02-03,Alimentación,60000,Efectivo
+2025-02-04,Servicios,127000,Efectivo
+2025-02-04,Alimentación,36000,Tarjeta débito
+2025-02-04,Transporte,15000,Efectivo
+2025-02-04,Servicios,78000,Tarjeta crédito
+2025-02-05,Alimentación,57000,Tarjeta débito
+2025-02-05,Alimentación,58000,Tarjeta débito
+2025-02-05,Otros,10000,Tarjeta débito
+2025-02-05,Alimentación,49000,Tarjeta débito
+2025-02-06,Alimentación,56000,Transferencia
+2025-02-06,Transporte,5000,Tarjeta crédito
+2025-02-06,Entretenimiento,71000,Efectivo
+2025-02-06,Servicios,158000,Tarjeta crédito
+2025-02-07,Ropa,125000,Tarjeta débito
+2025-02-07,Entretenimiento,10000,Tarjeta crédito
+2025-02-08,Salud,31000,Tarjeta débito
+2025-02-08,Salud,35000,Efectivo
+2025-02-08,Transporte,11000,Tarjeta crédito
+2025-02-08,Transporte,3000,Efectivo
+2025-02-08,Transporte,7000,Transferencia
+2025-02-09,Alimentación,35000,Tarjeta crédito
+2025-02-09,Entretenimiento,32000,Efectivo
+2025-02-09,Alimentación,50000,Transferencia
+2025-02-09,Alimentación,33000,Tarjeta débito
+2025-02-10,Entretenimiento,13000,Tarjeta débito
+2025-02-10,Educación,21000,Transferencia
+2025-02-11,Servicios,113000,Tarjeta crédito
+2025-02-12,Transporte,3000,Tarjeta crédito
+2025-02-12,Servicios,41000,Tarjeta crédito
+2025-02-12,Transporte,12000,Transferencia
+2025-02-12,Alimentación,26000,Efectivo
+2025-02-13,Alimentación,37000,Tarjeta crédito
+2025-02-13,Alimentación,40000,Tarjeta débito
+2025-02-14,Alimentación,55000,Tarjeta crédito
+2025-02-14,Entretenimiento,38000,Tarjeta crédito
+2025-02-15,Entretenimiento,45000,Transferencia
+2025-02-15,Alimentación,49000,Tarjeta crédito
+2025-02-15,Otros,22000,Tarjeta débito
+2025-02-15,Transporte,9000,Tarjeta débito
+2025-02-16,Alimentación,37000,Tarjeta crédito
+2025-02-16,Servicios,46000,Efectivo
+2025-02-16,Entretenimiento,22000,Tarjeta débito
+2025-02-16,Servicios,169000,Tarjeta débito
+2025-02-16,Otros,13000,Tarjeta crédito
+2025-02-17,Otros,23000,Transferencia
+2025-02-17,Entretenimiento,78000,Efectivo
+2025-02-17,Transporte,13000,Tarjeta débito
+2025-02-17,Alimentación,30000,Transferencia
+2025-02-18,Alimentación,53000,Transferencia
+2025-02-19,Entretenimiento,27000,Tarjeta crédito
+2025-02-19,Otros,48000,Tarjeta crédito
+2025-02-20,Alimentación,27000,Efectivo
+2025-02-21,Transporte,4000,Tarjeta crédito
+2025-02-21,Alimentación,33000,Efectivo
+2025-02-22,Transporte,9000,Tarjeta crédito
+2025-02-22,Otros,10000,Tarjeta crédito
+2025-02-22,Salud,117000,Tarjeta débito
+2025-02-22,Educación,109000,Tarjeta débito
+2025-02-22,Transporte,15000,Tarjeta débito
+2025-02-23,Entretenimiento,29000,Tarjeta débito
+2025-02-23,Alimentación,55000,Efectivo
+2025-02-23,Salud,101000,Tarjeta crédito
+2025-02-23,Otros,53000,Tarjeta débito
+2025-02-23,Alimentación,20000,Tarjeta débito
+2025-02-24,Alimentación,35000,Transferencia
+2025-02-24,Alimentación,51000,Transferencia
+2025-02-25,Educación,66000,Transferencia
+2025-02-25,Educación,20000,Tarjeta crédito
+2025-02-25,Educación,31000,Tarjeta débito
+2025-02-25,Otros,42000,Efectivo
+2025-02-26,Alimentación,42000,Tarjeta débito
+2025-02-26,Educación,79000,Tarjeta débito
+2025-02-26,Educación,60000,Efectivo
+2025-02-26,Transporte,3000,Tarjeta débito
+2025-02-27,Transporte,14000,Tarjeta crédito
+2025-02-28,Alimentación,20000,Efectivo
+2025-02-28,Ropa,76000,Tarjeta crédito
+2025-02-28,Ropa,59000,Efectivo
+2025-02-28,Servicios,148000,Efectivo
+2025-02-28,Entretenimiento,27000,Tarjeta crédito
+2025-03-01,Transporte,11000,Tarjeta crédito
+2025-03-02,Servicios,127000,Tarjeta crédito
+2025-03-02,Alimentación,35000,Efectivo
+2025-03-02,Alimentación,31000,Tarjeta crédito
+2025-03-03,Otros,57000,Transferencia
+2025-03-03,Educación,102000,Tarjeta crédito
+2025-03-03,Alimentación,60000,Tarjeta débito
+2025-03-03,Transporte,6000,Efectivo
+2025-03-03,Alimentación,46000,Tarjeta crédito
+2025-03-04,Transporte,12000,Efectivo
+2025-03-04,Entretenimiento,12000,Tarjeta débito
+2025-03-05,Transporte,14000,Tarjeta crédito
+2025-03-05,Educación,76000,Tarjeta crédito
+2025-03-05,Educación,104000,Tarjeta débito
+2025-03-06,Servicios,221000,Transferencia
+2025-03-06,Alimentación,48000,Tarjeta débito
+2025-03-07,Transporte,4000,Tarjeta débito
+2025-03-07,Transporte,10000,Tarjeta débito
+2025-03-08,Transporte,3000,Tarjeta débito
+2025-03-08,Ropa,174000,Efectivo
+2025-03-08,Entretenimiento,78000,Efectivo
+2025-03-08,Otros,17000,Tarjeta débito
+2025-03-09,Educación,130000,Tarjeta débito
+2025-03-09,Alimentación,45000,Efectivo
+2025-03-09,Entretenimiento,13000,Tarjeta crédito
+2025-03-10,Transporte,5000,Tarjeta crédito
+2025-03-10,Entretenimiento,70000,Transferencia
+2025-03-10,Alimentación,19000,Efectivo
+2025-03-10,Transporte,8000,Tarjeta débito
+2025-03-11,Entretenimiento,21000,Tarjeta débito
+2025-03-11,Alimentación,28000,Tarjeta débito
+2025-03-11,Transporte,12000,Tarjeta débito
+2025-03-11,Servicios,85000,Tarjeta crédito
+2025-03-11,Servicios,90000,Transferencia
+2025-03-12,Transporte,3000,Tarjeta crédito
+2025-03-13,Alimentación,36000,Efectivo
+2025-03-13,Alimentación,28000,Tarjeta crédito
+2025-03-13,Entretenimiento,23000,Tarjeta crédito
+2025-03-14,Transporte,9000,Tarjeta crédito
+2025-03-14,Entretenimiento,27000,Tarjeta débito
+2025-03-14,Entretenimiento,24000,Tarjeta débito
+2025-03-15,Salud,48000,Efectivo
+2025-03-16,Servicios,155000,Efectivo
+2025-03-17,Alimentación,39000,Tarjeta débito
+2025-03-17,Salud,118000,Tarjeta crédito
+2025-03-17,Entretenimiento,43000,Tarjeta débito
+2025-03-17,Educación,102000,Tarjeta débito
+2025-03-18,Transporte,12000,Tarjeta débito
+2025-03-18,Educación,78000,Efectivo
+2025-03-19,Transporte,7000,Transferencia
+2025-03-19,Alimentación,18000,Efectivo
+2025-03-19,Servicios,123000,Efectivo
+2025-03-19,Alimentación,17000,Tarjeta crédito
+2025-03-19,Entretenimiento,45000,Tarjeta débito
+2025-03-20,Educación,98000,Transferencia
+2025-03-20,Servicios,208000,Efectivo
+2025-03-21,Salud,35000,Tarjeta débito
+2025-03-22,Servicios,183000,Efectivo
+2025-03-22,Transporte,3000,Tarjeta débito
+2025-03-22,Salud,10000,Tarjeta débito
+2025-03-23,Servicios,155000,Efectivo
+2025-03-23,Alimentación,57000,Tarjeta débito
+2025-03-24,Alimentación,24000,Tarjeta débito
+2025-03-24,Entretenimiento,11000,Tarjeta débito
+2025-03-24,Transporte,3000,Tarjeta crédito
+2025-03-25,Alimentación,29000,Efectivo
+2025-03-25,Entretenimiento,58000,Tarjeta débito
+2025-03-25,Servicios,207000,Tarjeta crédito
+2025-03-25,Alimentación,23000,Tarjeta crédito
+2025-03-25,Alimentación,15000,Tarjeta débito
+2025-03-26,Servicios,134000,Efectivo
+2025-03-26,Servicios,64000,Tarjeta crédito
+2025-03-26,Alimentación,28000,Tarjeta crédito
+2025-03-26,Entretenimiento,51000,Tarjeta débito
+2025-03-27,Salud,113000,Tarjeta débito
+2025-03-28,Educación,82000,Tarjeta débito
+2025-03-28,Entretenimiento,75000,Efectivo
+2025-03-28,Entretenimiento,60000,Transferencia
+2025-03-29,Entretenimiento,60000,Tarjeta débito
+2025-03-29,Transporte,15000,Efectivo
+2025-03-29,Entretenimiento,36000,Tarjeta crédito
+2025-03-30,Otros,41000,Tarjeta crédito
+2025-03-30,Servicios,225000,Efectivo
+2025-03-30,Educación,142000,Tarjeta crédito
+2025-03-30,Servicios,170000,Efectivo
+2025-03-31,Entretenimiento,24000,Tarjeta crédito
+2025-03-31,Servicios,76000,Efectivo
+2025-03-31,Entretenimiento,36000,Tarjeta crédito
+2025-03-31,Educación,55000,Tarjeta crédito
